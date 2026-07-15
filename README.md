@@ -23,9 +23,9 @@ This project asks:
 
 | File | Description |
 |------|-------------|
-| `Credit_Fraud_Risk_Analysis.ipynb` | Full analysis notebook -- EDA, model, evaluation, business recommendations |
+| `credit.ipynb` | Full analysis notebook -- EDA, model, evaluation, business recommendations |
 | `transactions.csv` | Synthetic dataset (50,000 transactions) |
-| `generate_data.py` | Standalone script to regenerate the dataset |
+| `Fraud_Analysis_Explained` | Standalone script to regenerate the dataset |
 
 ---
 
